@@ -1,8 +1,13 @@
 #buttons{
-    float: left;
+    /* float: left; */
+    text-align: center;
+    margin: auto;
 }
 #inputs{
-    float: right;
+    /* float: right; */
+    text-align: center;
+    width: 40%;
+    margin: auto;
 }
 hr{
    
